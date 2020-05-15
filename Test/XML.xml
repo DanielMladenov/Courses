@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<mdm>
+<questions>
+<columns>
+<variable ident="3" level="0" numberanswers="sa">
+<name>MAINBANK</name>
+<title>
+<text lang="en-CA" mode="Question">Which do you consider to be your main bank, where you do most of your day-to-day banking?</text></title>
+<categories>
+<value other="no">_1<text lang="en-CA" mode="Question">BMO</text></value>
+<value other="no">_2<text lang="en-CA" mode="Question">CIBC</text></value>
+<value other="no">_3<text lang="en-CA" mode="Question">RBC</text></value>
+<value other="no">_4<text lang="en-CA" mode="Question">Scotiabank</text></value>
+<value other="no">_5<text lang="en-CA" mode="Question">TD</text></value>
+<value other="no">_6<text lang="en-CA" mode="Question">Simplii Financial</text></value>
+<value other="no">_7<text lang="en-CA" mode="Question">Tangerine</text></value>
+<value other="no">_8<text lang="en-CA" mode="Question">PC Financial</text></value>
+<value other="no">_9<text lang="en-CA" mode="Question">Wealthsimple</text></value>
+<value other="no">_10<text lang="en-CA" mode="Question">Another bank, credit union, or financial institutionOther</text></value>
+</categories>
+</variable>
+</columns>
+</questions>
+</mdm>
